@@ -32,7 +32,7 @@ export default function Form() {
         >
           Get a new meme image 🖼️
         </button>
-        <img src="https://i.imgflip.com/4acd7j.png" alt="meme" />
+        <img src="https://i.imgflip.com/4acd7j.png" alt="meme pic" />
       </div>
     </main>
   )
